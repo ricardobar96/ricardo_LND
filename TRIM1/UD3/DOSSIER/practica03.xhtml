@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+
+<head>
+<title>practica03.xhtml</title>
+<meta name="author" content="Ricardo Baloira Armas"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+
+<body>
+<form id="formulario" action="mailto:ricardobar96@gmail.com" method="post" enctype="multipart/form-data">
+
+<h3> Información sobre el producto </h3>
+<fieldset>
+<legend> Datos básicos: </legend>
+<label for="nombre"> Nombre: </label>
+<input id="nombre" type="text" size="45"/>
+<br/>
+<br/>
+<label for="text"> Descripción: </label> <br/>
+<textarea id="text" rows="6" cols="60" style="overflow-y:scroll;"></textarea>
+<br/>
+<br/>
+<label for="foto"> Foto </label>
+<input id="foto" type="text" size="15"/>
+<input id="elegir" type="file" value="Elegir..."/>
+<br/>
+<br/>
+<input id="contador" type="checkbox" value="contador"/> Añadir contador de visitas
+</fieldset>
+
+<fieldset>
+<legend> Datos económicos: </legend>
+<label for="precio"> Precio </label>
+<input id="precio" type="text" size="3"/>
+<label for="precio"> € </label>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<label for="impuestos"> Impuestos </label>
+<select id="impuestos">
+  <option selected="selected"> 4% </option>
+  <option> 7% </option>
+  <option> 16% </option>
+  <option> 26% </option>
+</select>
+<br/>
+<br/>
+<label for="promo1"> Promoción </label> <br/>
+<input id="promo1" type="radio" value="Ninguno" name="prom" checked="checked"/> Ninguno <br/>
+<input id="promo2" type="radio" value="Transporte gratuito" name="prom"/> Transporte gratuito <br/>
+<input id="promo3" type="radio" value="Descuento 5%" name="prom"/> Descuento 5% <br/>
+</fieldset>
+</form>
+
+</body>
+</html>
