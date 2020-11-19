@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+
+<head>
+<title> Practicando XHTML I </title>
+<meta name="author" content="Ricardo Baloira Armas"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+
+<body>
+
+<form id="formulario" action="procesar.php" method="post">
+
+<h3> Ricardo Baloira Armas </h3>
+<fieldset>
+<legend> Datos del propietario </legend>
+<label for="nombre"> Nombre: </label> <input id="nombre" type="text"/>
+<br/>
+<label for="sexo"> Sexo: </label>
+<input id="sexo" type="radio" value="Hombre" name="sexo" checked="checked"/> Hombre
+<input id="sexo2" type="radio" value="Mujer" name="sexo"/> Mujer
+<br/>
+</fieldset>
+<fieldset>
+<legend> Datos del vehículo </legend>
+<label for="marco"> Marco/modelo: </label>
+<input id="marco" type="text"/>
+<br/>
+<label for="mat"> Matrícula: </label>
+<input id="mat" type="text"/>
+<br/>
+<label for="car"> Características: </label>
+<select id="car" size="4" multiple="multiple">
+  <option selected="selected"> Utilitario </option>
+  <option > Todo Terreno </option>
+  <option selected="selected"> Alta gama </option>
+</select>
+<br/>
+<label for="otros"> Otros datos: </label>
+<br/>
+<input id="otros" type="checkbox" value="Servofrenos" checked="checked"/> Servofrenos
+<input id="otros2" type="checkbox" value="Elevalunas" checked="checked"/> Elevalunas
+<input id="otros3" type="checkbox" value="Remolque"/> Remolque
+</fieldset>
+<div>
+<input id="env" type="submit" value="enviar"/>
+</div>
+</form>
+</body>
+</html>
