@@ -1,0 +1,5 @@
+fieldset{width:400px; border: solid orange 1px; margin:10px}
+legend{padding: 15px; font-size: 1.5em; background-color: orange; color: white}
+table img{width: 75px; height: 75px}
+fieldset table{border: 0px}
+.importante{background-color: #BBF53A; font-family: Courier; font-weight: bold;}
