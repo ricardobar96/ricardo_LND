@@ -1,0 +1,7 @@
+.cabecera {background-color:#CA97FF; color: white; font-size: 16px; font-weight: bold}
+.cuerpo {font-size: 12px; text-align: justify}
+.pie {background-color:#CA97FF; color: white; font-size: 10px; text-align: right}
+.tabla-borde {border: solid 1px pink}
+a:hover{background-color: red}
+a:visited{color: #252850}
+p:first-child{text-indent: 60px}

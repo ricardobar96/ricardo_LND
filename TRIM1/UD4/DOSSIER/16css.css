@@ -1,0 +1,5 @@
+.p1{margin-right: 100px; margin-left: 100px}
+.p2{border: solid green 3px; padding: 0px}
+.p3{border: dashed 2px; border-color: yellow blue}
+.p4{border: groove 5px black; border-top: none; border-right: none; border-left: none}
+.p5{width: 200px; padding: 50px; border: fuchsia solid 2px}

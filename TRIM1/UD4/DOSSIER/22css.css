@@ -1,0 +1,4 @@
+.d1{background-image: url("textura.png"); background-repeat: repeat-x}
+.d2{border: solid; width: 200px; height: 500px; background-image: url("google.jpg"); background-position: bottom right; background-repeat: no-repeat; background-size: 50px}
+.d3{border: solid; width: 850px; height: 500px; position: absolute; left: 15%; bottom: 6.3%; padding-right: 80px }
+.d4{border: solid; width: 222px; height: 500px; background-image: url("google.jpg"); background-position: bottom right; background-repeat: no-repeat; background-size: 50px; position: absolute; left: 83.3%; bottom: 6.3%}}
