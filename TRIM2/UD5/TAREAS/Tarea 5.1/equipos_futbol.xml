@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipos>
+  <equipo>
+    <nombre>Fútbol Club Barcelona</nombre>
+    <ciudad>Barcelona</ciudad>
+    <entrenador></entrenador>
+    <jugadores>
+      <jugador posicion="portero">
+        <nombre_jug>Neto Murara</nombre_jug>
+        <nacionalidad>Brasileño</nacionalidad>
+      </jugador>
+      <jugador posicion="defensa">
+        <nombre_jug>Jordi Alba</nombre_jug>
+        <nacionalidad>Español</nacionalidad>
+      </jugador>
+    </jugadores>
+  </equipo>
+  <equipo>
+    <nombre>Real Madrid Club de Fútbol</nombre>
+    <ciudad>Madrid</ciudad>
+    <entrenador></entrenador>
+    <jugadores>
+      <jugador posicion="centrocampista">
+        <nombre_jug>Take Kubo</nombre_jug>
+        <nacionalidad>Japonés</nacionalidad>
+      </jugador>
+      <jugador posicion="centrocampista">
+        <nombre_jug>Toni Kroos</nombre_jug>
+        <nacionalidad>Alemán</nacionalidad>
+      </jugador>
+    </jugadores>
+  </equipo>
+  </equipos>

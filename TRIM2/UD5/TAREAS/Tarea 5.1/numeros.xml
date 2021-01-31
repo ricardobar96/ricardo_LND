@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numeros>
+  <numero letras="uno">
+    <uno>12</uno>
+  </numero>
+  <numero letras="dos">
+    <dos>22</dos>
+  </numero>
+  <numero letras="seis">
+    <seis>666666</seis>
+  </numero>
+</numeros>
+<!---Para corregir el xml en primer lugar modifiqué el cierre de las etiquetas <1>, <2> y <6>, pues tal como estaban daba error. También cambié la estructura de etiquetas de tal forma que la
+etiqueta raíz <numeros> contenga varias etiquetas <numero> en lugar de  <1>, <2> y <6>, pues la anterior organización no era correcta para la adecuada organización del xml. A dichas etiquetas numero
+les traspasé los atributos letra juntando cada letra de tal modo que solo haya un atributo letra por etiqueta, pues como estaba anteriormente resultaba erróneo, aparte de que la información sigue
+siendo la misma. Por último cambié las etiquetas que solo contenían número para que no dieran error poniendo en su lugar dicho número pero escrito, como es el caso de <uno>-->

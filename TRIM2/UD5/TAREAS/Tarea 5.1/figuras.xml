@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<figuras>
+   <figura categoria="plana">
+      <nombre>cuadrado</nombre>
+      <lados>4</lados>
+   </figura>
+   <figura categoria="plana">
+      <nombre>triángulo</nombre>
+      <lados>3</lados>
+   </figura>
+   <figura categoria="tridimensional">
+      <nombre>cubo</nombre>
+      <aristas>12</aristas>
+      <caras>6</caras>
+   </figura>
+</figuras>
+
+<!---Para corregir el xml en primer lugar cerré las etiquetas que no se habían cerrado adecuadamente, como es el caso de </lados>. En relación a estas etiquetas algunos de sus contenidos
+estaban colocados de tal manera que entraban en la etiqueta, como es el caso de <figura tridimensional>, lo cual es erróneo, por lo que tuve que modificarlas. Para ello decidí transformar dichos
+contenidos en atributos de la etiqueta, como sería <figura categoria="plana"> -->

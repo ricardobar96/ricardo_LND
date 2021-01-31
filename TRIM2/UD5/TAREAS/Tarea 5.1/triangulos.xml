@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<triangulos>
+  <triangulo base="7" altura="5">
+  </triangulo>
+  <triangulo base="2" altura="6">
+  </triangulo>
+  <triangulo base="3" altura="3">
+  </triangulo>
+</triangulos>
+  <!---Para corregir el xml en primer lugar tuve que modificar el prólogo del documento, pues estaba mal. A continuación creé <triangulos> como etiqueta raíz que contendrá las etiquetas
+<triangulo>, dentro de las cuales también tuve que separar con un espacio los atributos para que no diera error y crear una etiqueta de cierre para cada triángulo.-->

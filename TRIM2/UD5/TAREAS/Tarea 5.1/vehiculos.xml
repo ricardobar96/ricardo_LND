@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehiculos>
+  <terrestres>
+   <vehiculo>bicicleta</vehiculo>
+   <vehiculo>coche</vehiculo>
+   <vehiculo>tractor</vehiculo>
+ </terrestres>
+ <acuaticos>
+   <vehiculo>canoa</vehiculo>
+ </acuaticos>
+  <aereos>
+   <vehiculo>avioneta</vehiculo>
+   <vehiculo>helicóptero</vehiculo>
+ </aereos>
+</vehiculos>
+
+<!---Para corregir el xml en primer lugar cree la etiqueta raíz <vehiculos> para después cerrar las etiquetas <terrestres
+<, <acuaticos>, <aereos> y <vehiculos>, pues habían quedado abiertas. Por último modifiqué el prólogo del documento, pues estaba mal-->
