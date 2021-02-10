@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acer_monspessulanum>
+  <arbol>
+    <nombre_comun>Arce de Montpellier, Arce menor</nombre_comun>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura>De 6 a 10 metros</altura>
+    <forma_estructura>
+      <copa>Copa esférica</copa>
+      <tronco>Tronco principal recto con bifurcaciones</tronco>
+      <ramaje>Ramaje colgante</ramaje>
+    </forma_estructura>
+    <color estacion="primavera">Haz verde brillante, envés verde blanquecino</color>
+    <resistencia_heladas>
+      <temperatura>Heladas fuertes (hasta -15ºC)</temperatura>
+      <especie>Olea europea</especie>
+    </resistencia_heladas>
+  </arbol>
+  <arbol>
+    <nombre_comun>Olivo</nombre_comun>
+    <vegetacion>Perenne</vegetacion>
+    <altura>De 8 a 15 metros</altura>
+    <forma_estructura>
+      <copa>Copa irregular</copa>
+      <tronco>Tronco principal irregular con bifurcaciones</tronco>
+      <ramaje>Ramaje tortuoso</ramaje>
+    </forma_estructura>
+    <color estacion="primavera">Haz verde oscuro, envés verde plateado</color>
+    <resistencia_heladas>
+      <temperatura>Heladas medias (hasta -10ºC)</temperatura>
+      <especie>Platanus orientalis</especie>
+    </resistencia_heladas>
+  </arbol>
+  <arbol>
+    <nombre_comun>Plátano</nombre_comun>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura>De 20 a 25 metros</altura>
+    <forma_estructura>
+      <copa>Copa ovoidal</copa>
+      <tronco>Tronco principal recto</tronco>
+      <ramaje>Ramaje expandido</ramaje>
+    </forma_estructura>
+    <color estacion="otoño">Ocre</color>
+    <resistencia_heladas>
+      <temperatura>Heladas fuertes (hasta -20ºC)</temperatura>
+      <especie>Quercus ilex</especie>
+    </resistencia_heladas>
+  </arbol>
+  <arbol>
+    <nombre_comun>Encina</nombre_comun>
+    <vegetacion>Perenne</vegetacion>
+    <altura>En torno a 25 metros</altura>
+    <forma_estructura>
+      <copa>Copa esférica o elíptica irregular</copa>
+      <tronco>Tronco principal recto</tronco>
+      <ramaje>Ramaje tortuoso</ramaje>
+    </forma_estructura>
+    <color estacion="primavera">Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</color>
+    <resistencia_heladas>
+      <temperatura>Heladas fuertes (hasta -15ºC)</temperatura>
+      <especie></especie>
+    </resistencia_heladas>
+  </arbol>
+</acer_monspessulanum>
