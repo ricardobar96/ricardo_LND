@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<documento>
+<p>Mi Primer documento XML</p>
+<destacar importancia="1">documento XML</destacar>
+<p>Comienza con la etiqueta &lt;documento&gt;</p>
+<p>A continuacion colocamos un elemento sin contenido</p>
+<imagen fichero="imagen.gif"></imagen>
+</documento>
+
+<!---El documento xml no está correcto porque, en primer lugar la setiquetas de varias de sus líneas están colocadas en un orden incorrecto de forma que al abrirlos ocasionan un error.
+En la tercera línea se intenta colocar una etiqueta dentro de otra, la cual no indica correctamente su atributo entre comillas ("1"), por lo que tuve que corregirlo. En la lína 5 se intenta
+escribir  > y < dentro de un texto, para lo cual habría que usar caracteres especiales. Por último, en la línea 7 no se cierra la etiqueta "imagen".-->

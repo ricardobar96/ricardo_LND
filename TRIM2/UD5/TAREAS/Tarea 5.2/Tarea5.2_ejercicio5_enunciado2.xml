@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<libros>
+<libro id="quijote">
+<titulo>El Quijote</titulo>
+<autor nombre="cervantes"></autor>
+<descripcion>Es el mejor libro de cervantes.</descripcion>
+</libro>
+</libros>
+
+<!---En primer lugar xml es case sensitive por lo que el contenido de las etiquetas debe coincidir, mayúsculas y minúsculas incluidas. Tuve que cambiar la etiqueta "</Libros>" por "</libros>", en la
+línea 7 cerrar la etiqueta adecuadamente, pues usar "]" es erróneo, en la línea 6 eliminar el caracter "<" del texto y en la línea 5 crear etiqueta de cierre para "autor". Los atributos deben de ir
+entre comillas por lo que tuve que añadirlas en la línea 5 al atributo de "nombre" aparte de eliminar uno de dichos atributos puesto que estaba duplicado.-->
