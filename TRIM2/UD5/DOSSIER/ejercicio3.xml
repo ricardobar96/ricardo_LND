@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+  <libros>
+    <libro categoría="novela">
+      <titulo>El Médico</titulo>
+      <autor>Noah Gordon</autor>
+      <editorial>Salamandra</editorial>
+    </libro>
+    <libro categoría="cocina">
+      <titulo>Recetas</titulo>
+      <autor>J.K Rowling</autor>
+      <editorial>Salamandra</editorial>
+    </libro>
+    <libro categoría="programación">
+      <titulo>Java</titulo>
+      <autor>Isidro Sánchez</autor>
+      <editorial>Alfaguara</editorial>
+    </libro>
+    <libro categoría="programación">
+      <titulo>Linux</titulo>
+      <autor>Marta Pérez</autor>
+      <editorial>Alfaguara</editorial>
+    </libro>
+  </libros>
+</libreria>
