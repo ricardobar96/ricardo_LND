@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Son todos válidos excepto el documento 3, pues este aparte de no tener la etiqueta DNI repite la etiqueta Nombre
+dos veces cuando solo se puede poner una vez-->
+</respuesta>
