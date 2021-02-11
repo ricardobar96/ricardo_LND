@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Son correctos todos excepto el documento 3, puesto que la etiqueta Nombre debe de aparecer por lo menos una vez para
+  que el documento sea válido dado el uso del operador suma-->
+</respuesta>

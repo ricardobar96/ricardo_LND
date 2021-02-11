@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Solo es válido el documento 3, puesto que solo puede existir la etiqueta DNI o la etiqueta Nombre, nunca las dos a
+  vez-->
+</respuesta>

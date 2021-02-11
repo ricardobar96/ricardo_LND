@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Son correctos todos excepto el documento 3 y 4. En el documento 3, aparte de no aparecer la etiqueta Nombre (que debe
+  de aparecer al menos una vez), DNI se repite dos veces cuando en realidad puede aparecer como máximo una vez debido al
+  uso de ?. En el documento 4 no aparece la etiqueta Nombre y, aunque DNI cumpla las normas de sintaxis, también es
+  erróneo-->
+</respuesta>
