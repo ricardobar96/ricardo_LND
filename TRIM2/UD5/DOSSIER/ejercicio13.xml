@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Todos los documentos son válidos excepto el 2 y el 4 puesto que el símbolo '+' de la sintaxis exige que
+  haya al menos una etiqueta, Dni o Nombre, pero nunca una cadena de texto sin etiqueta-->
+</respuesta>
