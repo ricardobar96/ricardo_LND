@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
 <respuesta>
-  <!--Sí, el documento es correcto-->
+  <!--Tanto el primero como el segundo documento no son válidos, puestos que ambos incumplen las reglas de sintaxis
+establecidas para la etiqueta XXX al repetir el primero la etiqueta XXX más de una vez y el segundo al repetir también
+más de una vez la etiqueta AAA cuando dentro se establecía que esta solo podía aparecer una o cero veces-->
 </respuesta>
