@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--1.)Una etiqueta LIBRO que contiene una etiqueta Autor y una etiqueta Editorial
+      2.)Una etiqueta Autor que contiene una cadena de texto
+      3.)Una (o más) etiqueta PELICULA que contiene una de estas tres etiquetas: Actor, Actriz, Director
+      4.)Una etiqueta PELICULA que, ninguna una o varias veces, contiene o la etiqueta Actor o la etiqueta Actriz.
+    También contiene la etiqueta Director y puede contener como máximo una vez la etiqueta Maquillaje
+      5.)Una etiqueta PELICULA que contiene ninguna, una o varias veces o una cadena de texto o la etiqueta Actor
+      6.)Una etiqueta PELICULA que contiene  las etiquetas Titulo, Genero y ninguna, una o varias veces una de estas
+    tres etiquetas: Actor, Actriz, Narrador
+      7.)Una etiqueta FICHE que contiene como mínimo una vez las etiquetas Nombre y Apellido, ninguna, una o varias
+    veces la etiqueta Direccion, ninguna o una vez la etiqueta Foto y ninguna, una o varias veces o la etiqueta
+  TelFijo o la etiqueta TelMovil-->
+</respuesta>
