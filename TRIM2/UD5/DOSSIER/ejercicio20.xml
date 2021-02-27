@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Hay un elemento pelicula que contiene una etiqueta titulo, una o más etiquetas writer, productor y director,
+ninguna, una o varias etiquetas actor y ninguna o una etiqueta comentarios. El atributo con listas de valores
+acotados que acompaña a tipo está seleccionado por defecto en el valor drama, el atributo con listas de valores
+acotados que acomapaña a clasificacion está seleccionado por defecto en el valor PG y la lista de valores acotados
+que acompaña a review está seleccionado por defecto en el valor 3. Por último, el atributo cadena de texto que
+acompaña a año es opcional-->
+</respuesta>
