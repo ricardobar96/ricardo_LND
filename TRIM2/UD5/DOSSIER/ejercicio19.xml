@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--El atributo cadena de texto que acompaña a Director es obligatorio, el atributo con listas de valores acotadas
+que acompaña a horario es opcional, el atributo con listas de valores acotadas que acomapaña a matricula está seleccionada
+por defecto en el valor "Ordinaria" y el atributo cadena de texto que acompaña a tasas tiene un valor fijo de "53€"-->
+</respuesta>
