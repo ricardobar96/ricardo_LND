@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Todos los documentos son válidos excepto el 2, puesto que se admiten las etiquetas Dni, Nombre o ninguna de ellas
+en el documento pero no una cadena de texto sin etiqueta-->
+</respuesta>
