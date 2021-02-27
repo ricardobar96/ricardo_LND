@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--1.)No es válido al faltar el atributo required AtribC
+      2.)El documento 2 es válido
+      3.)El documento 3 es válido
+      4.)El documento 4 no es válido, puesto que NMTOKEN en el AtribB no aceptaría un valor ","
+      5.)El documento 4 no es válido, puesto que NMTOKEN en el AtribB no aceptaría espacios en blanco-->
+</respuesta>
