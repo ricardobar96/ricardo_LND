@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<respuesta>
+  <!--Son válidos todos los documentos excepto el 2, pues en este documento se utiliza tanto la cadena de texto como la
+  etiqueta Nombre cuando solo se puede usar una de las dos.-->
+</respuesta>
