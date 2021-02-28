@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE libreria SYSTEM "libreria.dtd">
+<libreria>
+  <libros>
+    <libro>
+      <titulo>El Médico</titulo>
+      <autor>Noah Gordon</autor>
+      <editorial>Salamandra</editorial>
+    </libro>
+    <libro>
+      <titulo>Harry Potter</titulo>
+      <autor>J.K Rowling</autor>
+      <editorial>Salamandra</editorial>
+    </libro>
+  </libros>
+</libreria>
