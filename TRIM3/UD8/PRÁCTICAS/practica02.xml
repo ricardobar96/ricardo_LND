@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<respuesta>
-<!---No devuelve ningún resultado la última ruta porque se está haciendo alusión directamente al campo "nota" cuando en
-realidad debería ser /instituto/curso[@nombre="2º ASIR"]/alumno[2]/notas/nota 
-para que se muestren las notas del alumno-->
-</respuesta>
-
